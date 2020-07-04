@@ -22,7 +22,7 @@ $args=
 
 ];
 ?>
-<div class="row">
+<div class="row">testing
     <div class="col-md-6">
     <?php
     echo  set_accordian('accordion',$args);
